@@ -6,7 +6,7 @@ import Form from './Form'
 const Contactus=()=>{
 return(<React.Fragment>
     <div>
-          <h1>Hello Contact us changed for branches</h1>
+          <h1>Hello Contact us changed ABC</h1>
           <Form/>
     </div>
 </React.Fragment>)
