@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+}
+.menu{
+    padding: 2%;
+    display: flex;
+    background-color: pink;
+    justify-content: space-around;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    text-transform: uppercase;
+    color: white;
+}
